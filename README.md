@@ -31,3 +31,7 @@
 5. 미세먼지 차이에 대한 기준은 실내 미세먼지 기준 농도를 가져와서 결정하였으며 차이가 높을시 챗봇에서 환기, 창문 닫기 등의 제안이 가능하다.
 6. 
 ![image](https://github.com/user-attachments/assets/0e154dde-9ce6-43cc-86a1-ab6574210c8b)
+
+
+![image](https://github.com/user-attachments/assets/68cc9880-a5d4-40f3-94a9-b093c196dbc3)
+
